@@ -1,0 +1,30 @@
+.title{
+    text-align: center;
+}
+
+.img{
+    width:25%;
+    float:left;
+    height: 70%;
+    margin-left: 35px;
+}
+
+.paragraf{
+    float: right;
+    width:  65%;
+    margin-top: 80px;
+}
+
+.home {
+    text-decoration: none;
+    background-color: black;
+    color: blue;
+    padding: 2%;
+    margin-top: 5px;
+}
+
+
+
+.color {
+    background-color: aqua;
+}
